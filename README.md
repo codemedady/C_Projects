@@ -1,7 +1,8 @@
 # C_Projects
 Collection of my journey in C
-Project-1 (ROCK,PAPER AND SCISSORS GAME): 
 
+
+Project-1 (ROCK,PAPER AND SCISSORS GAME): 
 Rock, Paper, Scissors is a classic hand game played between two people. Here are the basic rules:
 
 1.Rock beats scissors
@@ -14,7 +15,6 @@ The 100 numbers are divided into 3 options i.e stone,paper and scissors, where t
 
 
 Project-2 (STUDENT DATA MANAGEMENT SYSTEM):
-
 Program to build a simple Software for Student Information Management System which can perform the following operations:
 
 Store the First name of the student.
