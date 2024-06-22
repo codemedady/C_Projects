@@ -31,3 +31,24 @@ Find the students registered in a course: This function is to find all the stude
 Count of Students: This function is to print the total number of students in the system
 Delete a student: This function is to delete the student record for the given roll number.
 Update Student: This function is to update the student records. This function does not ask for new details for all fields but the user should be able to pick and choose what he wants to update.
+
+
+Project-3 (LIBRARY MANAGEMENT SYSTEM)
+The library is the place where we find a collection of books organized in a particular order. In the library,  we can collect book read them, and then return it. But, Managing a particular library is not an easy task. So, we can create a C language-based application using if-else statements, arrays, strings, switch cases, etc. Using this application we can easily manage the books in the library, we can get information about books, etc.
+
+The functionality of the Library Management System is mentioned below:
+
+Add book information.
+Display book information.
+To list all books of a given author.
+To list the count of books in the library
+
+Functionalities Required:
+If the user tries to add a book then the user must have to provide the below specific Information about the book:
+Enter Book Name:
+Enter Author Name:
+Enter Pages:
+Enter Price:
+When the user tries to display all books of a particular author then the user must have to enter the name of the author:
+Enter the author’s name:
+The E-Library Management System must be also capable of counting all the books available in the library.
