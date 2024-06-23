@@ -88,7 +88,7 @@ int main()
             exit(0);
             break;
         default:
-            printf("Enter proper choice !");
+            printf("Enter proper choice !\n");
             break;
         }
     }
